@@ -1,6 +1,6 @@
 Sample Weather App
 Technologies Used
-Kotlin: Programming language for Android development.
+Kotlin: Programming language.
 
 Retrofit: HTTP client for network requests.
 
