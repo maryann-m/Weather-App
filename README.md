@@ -1,4 +1,4 @@
-Sample Weather App
+Weather App
 Technologies Used
 Kotlin: Programming language.
 
